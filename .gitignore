@@ -1,0 +1,7 @@
+/build/
+/dist/
+/.deps/
+/.tools/
+/local.properties
+/work/
+__pycache__/
